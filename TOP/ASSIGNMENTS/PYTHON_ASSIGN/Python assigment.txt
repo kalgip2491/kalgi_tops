@@ -1,0 +1,80 @@
+Que-1 : What are the types of Applications? 
+Ans-1 : 1. Dektop Application
+        2. Web Application
+        3. Database Application
+        4. Networking Application
+        5. Gaming Application
+        6. Data Analysis
+        7. ML Application
+        8. AI Application
+
+Que-2 : What is programing? 
+Ans-2 : Programming is the process of creating a set of instructions that tell a computer how to perform a task. 
+
+Que-3 : What is Python? 
+Ans-3 : Python is an interpreted, object-oriented, high-level programming 
+        language with dynamic semantics.Its high-level built in data structures, combined with dynamic typing and 
+        dynamic binding, make it very attractive for Rapid Application Development.
+
+Que-7 : How memory is managed in Python? 
+Ans-7 : Memory is managed by python in private heap space.All python objects ans data structures locating a private heap.
+
+Que-8 : What is the purpose continuing statement in python? 
+Ans-8 : The continue statement in Python is used to skip the remaining code inside a loop for the current iteration only.
+
+Que-17 : What are negative indexes and why are they used?
+Ans-17 : Negative indexes in Python are a powerful feature that allows us to access elements in a list from the end instead of the beginning. This can            be particularly useful when dealing with large lists or when we need to access the last few elements without knowing their exact position.
+
+Que-25 : What is List? How will you reverse a list?
+Ans-25 :A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a           list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].
+        Reverse List Using the Reversed() and Reverse() Built-In Function.
+
+
+Que-26 : How will you remove last object from a list? 
+Ans-26 : One way is to use the pop() method. This method removes the last element of a list by default, or We can specify the index of the element which          we want to remove.
+
+Que-28 : Differentiate between append () and extend () methods.
+Ans-28 : The main difference between the append() and extend() methods in Python is that append() adds a single element to the end of a list, while               extend() adds multiple elements from another iterable to the end of a list.
+
+Que-43 : What is tuple? Difference between list and tuple.
+Ans-43 : Tuple is a data structure that stores a collection of items that cannot be changed after they are created. Tuples are similar to                         lists, but they are immutable, which means their contents are fixed and cannot be modified.
+
+	             List                                                                                   Tuple
+1	Lists are mutable	                                                                    1 Tuples are immutable
+2	The implication of iterations is Time-consuming	                                        2 The implication of iterations is comparatively Faster
+3	The list is better for performing operations, such as insertion and deletion.	        3 A Tuple data type is appropriate for accessing the elements
+4	Lists consume more memory	                                                            4.Tuple consumes less memory as compared to the list
+5	Lists have several built-in methods	                                                    5.Tuple does not have many built-in methods.
+6	Unexpected changes and errors are more likely to occur	                                6.Because tuples don’t change they are far less error-prone.
+
+
+Que-65 : How Many Basic Types of Functions Are Available in Python? 
+Ans-65 : There are two types of functions in python: User-Defined Functions - these types of functions are defined by the user to perform any specific            task. Built-in Functions - These are pre-defined functions in python.
+
+Que-71 : What is File function in python? What are keywords to create and write file.
+Ans-71 : Files are named locations on disk to store related information.
+         They are used to permanently store data in a non-volatile memory (e.g. hard disk).
+         The method open() is used to open an existing file or creating a new file. There are two keywords for write.
+         1. write
+         2. writelines
+
+Que-83 : Explain Exception handling? What is an Error in Python? 
+Ans-83 : There are several built-in Python exceptions that can be raised when an error occurs during the execution of a program.
+         An error is an issue in a program that prevents the program from completing its task. In comparison, an exception is a condition that                    interrupts the normal flow of the program. Both errors and exceptions are a type of runtime error, which means they occur during the execution 
+         of a program.
+
+Que-84 : How many except statements can a try-except block have? Name Some built-in exception classes:
+Ans-84 : More than zero except statements.NameError,Index Error,Syntax error.
+
+Que-85 : When will the else part of try-except-else be executed? 
+Ans-85 : The else part is executed when no exception occurs.
+
+Que-86 : Can one block of except statements handle multiple exception?
+Ans-86 : Yes, a single block of except statements in Python can handle multiple exceptions. This feature allows to handle different types of exceptions           using a single block of code.
+
+Que-87 : When is the finally block executed
+Ans-87 : The finally block executes when the try block exits, regardless of whether an exception occurs: 
+
+
+
+                                                                                                                                                    
